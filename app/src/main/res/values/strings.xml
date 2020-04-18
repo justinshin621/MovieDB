@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="base_url">https://api.themoviedb.org/3/</string>
+    <string name="picture_base_url">https://image.tmdb.org/t/p/w500/</string>
+    <string-array name="sorts">
+        <item>Release</item>
+        <item>Title</item>
+        <item>Rating</item>
+    </string-array>
+
+
+</resources>
