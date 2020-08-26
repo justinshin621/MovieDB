@@ -10,5 +10,3 @@ sort the movies by title, release date, or by IMDb rating. You can also view a l
 will remove the movie from the liked list if you have liked it previously. 
 
 All movie information is taken from https://www.themoviedb.org/.
-
-Enjoy
